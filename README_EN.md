@@ -2,8 +2,8 @@
 ## Hi👋 I'am Fuying
 ### A normal programmer,Like to study Python, PHP, JavaScript, Html and Nodejs
 
-[![Email](https://img.shields.io/badge/Email-sakura@iling.uk-0078D4?style=flat-square&logo=Microsoft%20Outlook)](mailto:sakura@iling.uk)
-[![Blog](https://img.shields.io/badge/Blog-iling.uk-0E83CD?style=flat-square&logo=Hexo)](https://iling.uk)
+[![Email](https://img.shields.io/badge/Email-sakura@muna.uk-0078D4?style=flat-square&logo=Microsoft%20Outlook)](mailto:sakura@muna.uk)
+[![Blog](https://img.shields.io/badge/Blog-blog.muna.uk-0E83CD?style=flat-square&logo=Hexo)](https://blog.muna.uk)
 [![Youtube](https://img.shields.io/badge/Youtube-芙樱竹-FF0000?style=flat-square&logo=YouTube)](https://www.youtube.com/channel/UCaY1aw0KQ-p_KcKp201L5xA)
 
 [此页面的中文版本](https://github.com/fuingzu/)
